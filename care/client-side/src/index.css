@@ -1,0 +1,15 @@
+@import url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+@import "./fonts/font.css";
+
+body {
+  margin: 0;
+  font-family: 'SF Pro Display';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F7F7F7;
+}
+
+code {
+  font-family: 'SF Pro Display',
+    monospace;
+}
